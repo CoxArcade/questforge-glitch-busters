@@ -1,0 +1,1 @@
+QuestForge Glitch Busters v1.5.7 — Crystal meter fix. Collect up to 5 crystals, press V to activate Overdrive, and only then collect more. Crystals in the world remain when full; puzzle and chest rewards are saved until meter has room. Launch with: python -m pygbag --width 640 --height 400 .
